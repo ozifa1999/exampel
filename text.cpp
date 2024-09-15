@@ -6,4 +6,8 @@ void run()
 int main()
 {
     cout<<"hello";
+ int x;
+ cin>>x ;
+ cout<<x;
+
 }
