@@ -3,4 +3,7 @@ using namespace std;
 void run()
 {
     
+int main()
+{
+    cout<<"hello";
 }
