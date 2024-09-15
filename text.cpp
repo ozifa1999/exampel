@@ -4,6 +4,6 @@ void run()
 {
  int x;
  cin>>x ;
- 
+ cout<<x;
 
 }
